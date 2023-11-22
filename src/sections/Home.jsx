@@ -6,7 +6,7 @@ const Home = () => {
     <div className="home-container" id="home">
       <div className="home-header">
         <div className="header-picture">
-          <img src={require("../profilePic.jpg")} alt="Profile" />
+          <img src={require("../Jared2_pic.png")} alt="Profile" />
         </div>
         <div classname="header-words">
           <h1 className="tech-developer">
